@@ -246,11 +246,11 @@ header nav li:last-child{
 }
 
 .our-work .grid li.large{
-	flex-basis: 60%;
+	flex-basis: 70%;
 }
 
 
-@media (max-width: 1000px){
+@media (max-width: 500px){
 
 	.our-work .grid li.small,
 	.our-work .grid li.large{
@@ -270,8 +270,8 @@ header nav li:last-child{
 }
 
 .features .grid li{
-	padding: 0 30px;
-	flex-basis: 33%;
+	padding: 0 60px;
+	flex-basis: 100%;
 	text-align: center;
 }
 
