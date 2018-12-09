@@ -96,6 +96,13 @@ ul.grid{
 }
 
 
+disqus {
+	top: 0;
+	left: 100px;
+	right: 100px;
+
+}
+
 /*-------------
  	Header
 -------------*/
