@@ -1,9 +1,4 @@
-disqus {
-	top: 20px;
-	left: 100px;
-	right: 100px;
-	padding: 200px 200px;
-}
+
 
 
 
@@ -471,4 +466,17 @@ footer p a{
 
 @media (max-width: 1200px) {
 	#bsaHolder{ display:none;}
+}
+
+disqus{
+	top: 20px;
+	left: 100px;
+	right: 100px;
+	padding: 200px 200px;
+	flex-direction: column;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+    background-color: #578ca8;
+    padding: 60px 0;
 }
