@@ -1,3 +1,14 @@
+disqus {
+	top: 0;
+	left: 100px;
+	right: 100px;
+	padding: 200px 200px;
+	display: none; 
+}
+
+
+
+
 /*-------------
  	General
 -------------*/
@@ -96,12 +107,7 @@ ul.grid{
 }
 
 
-disqus {
-	top: 0;
-	left: 100px;
-	right: 100px;
-	padding: 200px 200px;
-}
+
 
 /*-------------
  	Header
