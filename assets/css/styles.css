@@ -421,11 +421,13 @@ footer{
     text-align: center;
     color: #fff;
     background-color: #2f8073e3;
-    padding: 60px 0;
+	padding: 60px 0;
+	left: 200px;
+	right: 200px;
 }
-
+/* 
 footer ul{
-	display: flex;
+	display: grid;
 	margin-bottom: 25px;
 	font-size: 32px;
 }
@@ -457,9 +459,9 @@ footer p a{
 
 	footer{
 		padding: 80px 15px;
-	}
+	} 
 
-}
+}*/
 
 
 /* -- Demo ads -- */
